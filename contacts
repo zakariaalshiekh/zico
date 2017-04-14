@@ -1,0 +1,121 @@
+{
+
+   
+   "contacts": [
+        {
+                "id": "c200",
+                "name": "عبدالعزيز العليوي",
+                "nameshal": "شيلة لمحت البرق",
+                "url": "http://sheelat.com/uploads/songs/shylt_lm7t_albrk.mp3",
+                "nameid": "1"
+              
+               
+        },
+        {
+                "id": "c201",
+                "name": "راجح الحارثي",
+                "nameshal": "شيلة شاهي جمر",
+                "url": "http://sheelat.com/uploads/songs/shylt_shahy_gmr.mp3",
+                "nameid": "2"
+              
+        },
+        {
+                "id": "c202",
+                "name": "Leonardo Dicaprio",
+                "nameshal": "leonardo_dicaprio@gmail.com",
+                "url": "xx-xx-xxxx,x - street, x - country",
+                "nameid": "2"
+             
+        },
+        {
+                "id": "c203",
+                "name": "John Wayne",
+                "nameshal": "john_wayne@gmail.com",
+                "url": "xx-xx-xxxx,x - street, x - country",
+                "nameid": "2"
+              
+               
+        },
+        {
+                "id": "c204",
+                "name": "Angelina Jolie",
+                "nameshal": "angelina_jolie@gmail.com",
+                "url": "xx-xx-xxxx,x - street, x - country",
+                "nameid": "2"
+             
+               
+        },
+        {
+                "id": "c205",
+                "name": "Dido",
+                "nameshal": "dido@gmail.com",
+                "url": "xx-xx-xxxx,x - street, x - country",
+                "nameid": "2"
+              
+               
+        },
+        {
+                "id": "c206",
+                "name": "Adele",
+                "nameshal": "adele@gmail.com",
+                "url": "xx-xx-xxxx,x - street, x - country",
+                "nameid": "2"
+              
+              
+        },
+        {
+                "id": "c207",
+                "name": "Hugh Jackman",
+                "nameshal": "hugh_jackman@gmail.com",
+                "url": "xx-xx-xxxx,x - street, x - country",
+                "nameid": "2"
+               
+              
+        },
+        {
+                "id": "c208",
+                "name": "Will Smith",
+                "nameshal": "will_smith@gmail.com",
+                "url": "xx-xx-xxxx,x - street, x - country",
+                "nameid": "2"
+              
+               
+        },
+        {
+                "id": "c209",
+                "name": "Clint Eastwood",
+                "nameshal": "clint_eastwood@gmail.com",
+                "url": "xx-xx-xxxx,x - street, x - country",
+                "nameid": "2"
+              
+                
+        },
+        {
+                "id": "c2010",
+                "name": "Barack Obama",
+                "nameshal": "barack_obama@gmail.com",
+                "url": "xx-xx-xxxx,x - street, x - country",
+                "nameid": "1"
+              
+               
+        },
+        {
+                "id": "c2011",
+                "name": "Kate Winslet",
+                "nameshal": "kate_winslet@gmail.com",
+                "url": "xx-xx-xxxx,x - street, x - country",
+                "nameid": "2"
+            
+              
+        },
+        {
+                "id": "c2012",
+                "name": "Eminem",
+                "nameshal": "eminem@gmail.com",
+                "url": "xx-xx-xxxx,x - street, x - country",
+                "nameid": "2"
+             
+
+        }
+    ]
+}
